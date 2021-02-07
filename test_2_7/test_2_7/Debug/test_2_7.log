@@ -1,0 +1,4 @@
+﻿  test.c
+E:\代码\VS\test_2_7\test_2_7\test.c(62,7): warning C4013: “gets”未定义；假设外部返回 int
+E:\代码\VS\test_2_7\test_2_7\test.c(54,10): warning C4101: “k”: 未引用的局部变量
+  test_2_7.vcxproj -> E:\代码\VS\test_2_7\Debug\test_2_7.exe
